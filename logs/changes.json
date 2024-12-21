@@ -488,5 +488,85 @@
         "event_type": "modified",
         "file_path": "/home/kali/bsm/test",
         "time": "2024-12-20 15:17:57"
+    },
+    {
+        "event_type": "created",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "time": "2024-12-21 08:08:00"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "time": "2024-12-21 08:08:00"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "time": "2024-12-21 08:08:00"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "time": "2024-12-21 08:08:00"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "time": "2024-12-21 08:08:00"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "time": "2024-12-21 08:08:00"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "time": "2024-12-21 08:08:14"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "time": "2024-12-21 08:08:14"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "time": "2024-12-21 08:08:14"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "time": "2024-12-21 08:08:14"
+    },
+    {
+        "event_type": "opened",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "time": "2024-12-21 08:08:34"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "time": "2024-12-21 08:08:34"
+    },
+    {
+        "event_type": "closed",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "time": "2024-12-21 08:08:34"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "time": "2024-12-21 08:08:34"
+    },
+    {
+        "event_type": "deleted",
+        "file_path": "/home/kali/bsm/test/example.txt",
+        "time": "2024-12-21 08:08:34"
+    },
+    {
+        "event_type": "modified",
+        "file_path": "/home/kali/bsm/test",
+        "time": "2024-12-21 08:08:34"
     }
 ]
